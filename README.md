@@ -1,4 +1,4 @@
-# The Notebook(Facebook Clone - Minimal)
+# Notebook(Facebook Clone)
 
 A minimal facebook clone with firebase plug and play backend and real-time user interactions on ReactJS. This project is bootstraped with [Create React App](https://github.com/facebook/create-react-app).
 
