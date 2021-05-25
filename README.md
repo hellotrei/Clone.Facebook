@@ -9,7 +9,7 @@ A minimal facebook clone with firebase plug and play backend and real-time user 
 
 **2. Clone this repo**
 
-> $ git clone https://github.com/treidoristivan/Clone.Facebook.git
+> $ git clone https://github.com/hellotrei/Clone.Facebook.git
 
 **3. Run the following command in your project directory**
 
